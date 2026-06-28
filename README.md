@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sues-geheimnis/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Süßes Geheimnis](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sues-geheimnis/) |
+| **Get License** | [Get a Licensing Quote for Süßes Geheimnis](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sues-geheimnis/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarzer AMG, tiefer Blick, Baby, wir sind längst weg
+> Dein süßes Geheimnis ist für mich ein perfect match
+> Neonlicht auf der Haut, du machst mich heute schwach
+> All night long, nur wir beide in der dunklen Nacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
